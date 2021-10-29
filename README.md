@@ -1,2 +1,2 @@
 # easy_management
-This is the Web Application building to make user manage money easier
+This is the web application to make users can manage money easier
